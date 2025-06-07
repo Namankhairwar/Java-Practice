@@ -4,7 +4,7 @@ public interface Mobile {
      static void main(String[] args) {
         Phone phone = new Phone();
         phone.Show();
-//        phone.Connect();
+        phone.Connect();
 //        phone.Click();
 //        phone.calculate();
 //        phone.googleSearch();
