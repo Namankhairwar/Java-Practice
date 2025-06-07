@@ -10,7 +10,7 @@ public class Animal {
         cat.eat();
         Dog dog = new Dog();
         dog.legs = 4;
-        dog.color = "Red";
+        dog.color = "Brown";
         dog.display();
         dog.eat();
         cat.speak();
