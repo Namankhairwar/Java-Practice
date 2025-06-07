@@ -19,7 +19,7 @@ class Test {
             System.out.println(n+" is even number");
         } if (n > 0) {
             if(n % 2 == 0) {
-                System.out.println(n+" is even number");
+                System.out.println(n+" is an even number");
                 if(n > 2) {
                     n += 12;
                     System.out.println(n);
