@@ -4,7 +4,7 @@ public class Animal {
     public static void main(String[] args) {
         Animal a = new Dog();
         Cat cat = new Cat();
-        cat.color = "Brown";
+        cat.color = "Red";
         cat.age = 1;
         System.out.println(cat.color + " " + cat.age);
         cat.eat();
